@@ -3,7 +3,7 @@ Trabajo grupal Base Datos
 
 INTEGRANTES:
 - Ana María Gerding Panichine
-- Andrea Mancilla
+- Andrea Belén Mancilla Gutierrez
 
 ## LINKS MEDIOS DE PRENSA DE LA REGIÓN METROPOLITANA (SANTIAGO DE CHILE):
 
@@ -60,4 +60,5 @@ INTEGRANTES:
 
 ### Todas los medios medios de prensa están ubicados en Santiago de Chile con excepción del LABRADOR que está ubicado en Melipilla.  
 
-
+MODELOS ITEM 3 Y 4:
+https://drive.google.com/drive/folders/1od7lRz1qSE2KggbkxThhs3dKd__bAqCX?usp=sharing

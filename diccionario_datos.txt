@@ -1,1 +1,23 @@
 
+NOMBRE				TIPO			DESCRIPCIÓN
+URL				Char			Dirección web de una noticia.
+Título				Char			Título de la noticia publicada por un medio de prensa.
+Fecha_publicación		Char / Int		Fecha en que se publicó una noticia.
+Contenido			Char			Es todo el cuerpo de la noticia, su enunciado, la entrada, etc.
+Fecha_creación			Char / Int		Es la fecha de creación del medio de prensa seleccionado.
+Nombre_mp			Char			Nombre del medio de prensa
+País				Char			País al que pertenece el medio de prensa (en este caso Chile, pues nuestra base de datos está acotada a Chile).
+Región				Char			Es la región a la que pertenece el medio de prensa (es decir, región Metropolitana, ya que escogimos esa región
+							para trabajar).
+Idioma				Char			Es el idioma con el que trabaja el medio de prensa, por ende, en el que está escrita la noticia (al ser todos 
+							medios de prensa nacionales, este idioma será español).
+URLweb				Char			Dirección web de un medio de prensa.
+Nombre_d			Char			Nombre del dueño de un medio de prensa.
+Tipo				Char / Booleano		Indica si es persona natural o empresa.
+Fecha_dueño			Char / Int		Es la fecha desde la que es dueño del medio de prensa.	
+Nombre_pn			Char			Nombre de la persona (protagonista) de la noticia.
+Nacionalidad			Char			Nacionalidad de la persona protagonista de la noticia.
+Fecha de nacimiento		Char / Int		Fecha de nacimiento de la persona protagonista de la noticia.			
+Profesión			Char			Profesión de la persona mencionada en la noticia.
+Popularidad			Int			Un indicador de popularidad de la persona mencionada en la noticia, cuántas visitas tiene, etc.
+Wikipedia			Booleano		Indica si tiene página de wikipedia o no.

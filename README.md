@@ -7,55 +7,55 @@ INTEGRANTES:
 
 ## LINKS MEDIOS DE PRENSA DE LA REGIÓN METROPOLITANA (SANTIAGO DE CHILE):
 
-EL MERCURIO: 
+- EL MERCURIO: 
     https://www.emol.com/
-LA TERCERA:
+- LA TERCERA:
     https://www.latercera.com/
-LAS ÚLTIMAS NOTICIAS:
+- LAS ÚLTIMAS NOTICIAS:
     https://www.lun.com/
-LA CUARTA:
+- LA CUARTA:
     https://www.lacuarta.com/
-PUBLIMETRO:
+- PUBLIMETRO:
     https://www.publimetro.cl/
-LA SEGUNDA:
+- LA SEGUNDA:
     https://www.lasegunda.com
-LA HORA:
+- LA HORA:
     https://www.lahora.cl
-HOY X HOY:	
+- HOY X HOY:	
     https://www.hoyxhoy.cl
-DIARIO FINANCIERO:
+- DIARIO FINANCIERO:
     https://www.df.cl
-PULSO:
+- PULSO:
     https://www.pulso.cl
-MEGANOTICIAS:
+- MEGANOTICIAS:
     https://www.meganoticias.cl
-EL MOSTRADOR:
+- EL MOSTRADOR:
     https://www.elmostrador.cl
-LA RAZÓN:
+- LA RAZÓN:
     https://www.larazon.cl
-LA NACIÓN:
+- LA NACIÓN:
     https://www.lanacion.cl
-CRÓNICA DIGITAL:
+- CRÓNICA DIGITAL:
     https://www.cronicadigital.cl
-EL DESCONCIERTO:
+- EL DESCONCIERTO:
     https://www.eldesconcierto.cl
-EL CIUDADANO:
+- EL CIUDADANO:
     https://www.elciudadano.com
-EL DÍNAMO:
+- EL DÍNAMO:
     https://www.eldinamo.com/
-THE CLINIC:
+- THE CLINIC:
     https://www.theclinic.cl/
-EL PERIODISTA:
+- EL PERIODISTA:
     https://www.elperiodista.cl/
-SUR NOTICIAS:
+- SUR NOTICIAS:
     https://www.diariosurnoticias.com/
-CENTRAL WEB:
+- CENTRAL WEB:
     https://www.centralweb.cl/
-CAMBIO 21:
+- CAMBIO 21:
     https://www.cambio21.cl/
-TUS NOTICIAS:
+- TUS NOTICIAS:
     https://www.tusnoticias.cl/
-LABRADOR:
+- LABRADOR:
     http://www.diariolabrador.cl/
 
 ### Todas los medios medios de prensa están ubicados en Santiago de Chile con excepción del LABRADOR que está ubicado en Melipilla.  

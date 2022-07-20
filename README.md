@@ -1,6 +1,10 @@
 # Proyecto-BD-2022
 Trabajo grupal Base datos
 
+INTEGRANTES:
+- Ana María Gerding Panichine
+- Andrea Mancilla
+
 Modelo ER
 https://drive.google.com/file/d/1ZBuyI4ZsVQL8nsU7QcZGppAH_gX9Zalv/view?usp=sharing
 

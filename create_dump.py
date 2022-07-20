@@ -8,7 +8,7 @@ PORT='3306'
 DB_USER='root'
 DB_PASS='root'
 
-databases=('web_scrapping')
+databases=('web_scrapping',)
 
 def get_dump(database):
     filestamp = time.strftime('%Y-%m-%d-%I')
